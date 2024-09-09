@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otuiyt.github.io/YuF/sitemap.YuF.gz
